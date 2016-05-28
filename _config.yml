@@ -1,0 +1,14 @@
+layout_spectrum: 0.0007983953692018986
+typography_spectrum: 0.4638653425499797
+color:
+  brandStrength: 0.25049189664423466
+  lightness: 0.4313335332553834
+  saturation: 0.7719442271627486
+  rhythmicContrast: 0.23542007082141936
+  brandColors:
+    - '#00585F'
+    - '#009393'
+    - '#FFFCC4'
+    - '#F0EDBB'
+    - '#FF3800'
+name: him
